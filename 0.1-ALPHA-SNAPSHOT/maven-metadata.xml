@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.gumjoe</groupId>
+  <artifactId>Universal-Utils-Parent</artifactId>
+  <version>0.1-ALPHA-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20150528.170629</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <lastUpdated>20150528170629</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.1-ALPHA-20150528.170629-2</value>
+        <updated>20150528170629</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
